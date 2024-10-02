@@ -17,3 +17,5 @@ const lang = {
 }
 console.log(Object.values(lang));
 
+
+
